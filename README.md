@@ -1,4 +1,4 @@
-# ESP32 Environmental Monitoring System
+# Simple IoT Environmental Monitoring System
 
 A simple IoT environmental monitoring system built using a **Robo ESP32**. The system measures temperature, humidity, and analog sensor values, displays the environmental status using the **onboard NeoPixel RGB LED**, activates the **onboard buzzer** for critical conditions, and sends sensor data to **ThingSpeak** through Wi-Fi.
 
